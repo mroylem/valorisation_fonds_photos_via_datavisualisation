@@ -13,9 +13,9 @@ Les résultats montrent que si la datavisualisation ne remplace pas les instrume
 
 Les différentes dossiers sont accesibles via ces liens :
 
-- Lien vers les différents inventaires des institutions patrimoniales neuchâteloises : [ICI(https://github.com/mroylem/valorisation_fonds_photos_via_datavisualisation/tree/main/inventaires)]
-- Lien vers les scripts R : [ICI(https://github.com/mroylem/valorisation_fonds_photos_via_datavisualisation/tree/main/scripts)]
-- Lien vers les datavisualisations : [ICI(https://github.com/mroylem/valorisation_fonds_photos_via_datavisualisation/tree/main/datavisualisations)] 
+- Lien vers les différents inventaires des institutions patrimoniales neuchâteloises : [ICI](https://github.com/mroylem/valorisation_fonds_photos_via_datavisualisation/tree/main/inventaires)
+- Lien vers les scripts R : [ICI](https://github.com/mroylem/valorisation_fonds_photos_via_datavisualisation/tree/main/scripts)
+- Lien vers les datavisualisations : [ICI](https://github.com/mroylem/valorisation_fonds_photos_via_datavisualisation/tree/main/datavisualisations)
 
 
 ## Licences
