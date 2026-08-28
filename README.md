@@ -1,6 +1,6 @@
 # Valoriser les archives photographiques par la datavisualisation : potentiel d’un outil de médiation dans trois institutions patrimoniales neuchâteloises
 
-Ce dépôt contient les données des inventaires et les datavisualisations générées pour et durant le projet.
+Ce dépôt contient les données des inventaires et les datavisualisations générées pour et durant ce travail de mémoire.
 
 ## Résumé 
 
