@@ -9,6 +9,15 @@ Une fois récoltées sur le terrain ou moissonnées en ligne, les données ont �
 Les résultats montrent que si la datavisualisation ne remplace pas les instruments de recherche traditionnels, elle constitue un outil de médiation et de communication particulièrement efficace envers le grand public. Elle offre des vues d’ensemble et des synthèses inédites pour mieux appréhender la richesse des fonds.
 
 
+## Liens utiles 
+
+Les différentes dossiers sont accesibles via ces liens :
+
+- Lien vers les différents inventaires des institutions patrimoniales neuchâteloises : [ICI(https://github.com/mroylem/valorisation_fonds_photos_via_datavisualisation/tree/main/inventaires)]
+- Lien vers les scripts R : [ICI(https://github.com/mroylem/valorisation_fonds_photos_via_datavisualisation/tree/main/scripts)]
+- Lien vers les datavisualisations : [ICI(https://github.com/mroylem/valorisation_fonds_photos_via_datavisualisation/tree/main/datavisualisations)] 
+
+
 ## Licences
 
 Annotation is CC-BY. Images belong to the digital libraries.
